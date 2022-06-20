@@ -101,7 +101,8 @@ If you find HiCo useful for your research, please consider citing the paper as f
 @inproceedings{qing2022hico,
   title={Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency},
   author={Qing, Zhiwu and Zhang, Shiwei and Huang, Ziyuan and Xu, Yi and Wang, Xiang and Tang, Mingqian and Gao, Changxin and Jin, Rong and Sang, Nong},
-  booktitle={{CVPR}},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13821--13831},
   year={2022}
 }
 ```
