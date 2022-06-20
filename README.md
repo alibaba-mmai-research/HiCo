@@ -4,7 +4,7 @@
 In CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/).
 <br/>
 <div align="center">
-    <img src="framework.jpg" width="350px" />
+    <img src="framework.jpg" />
 </div>
 <br/>
 
