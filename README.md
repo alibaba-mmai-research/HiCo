@@ -1,7 +1,8 @@
 # Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency
 [Zhiwu Qing](https://scholar.google.com/citations?user=q9refl4AAAAJ&hl=zh-CN&authuser=1), [Shiwei Zhang](https://www.researchgate.net/profile/Shiwei-Zhang-14), [Ziyuan Huang](https://huang-ziyuan.github.io/), [Yi Xu](https://scholar.google.com/citations?user=D4jEMqEAAAAJ&hl=en), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ&hl=zh-CN&oi=sra), Mingqian Tang,
 [Rong Jin](https://www.cse.msu.edu/~rongjin/), [Changxin Gao](https://scholar.google.com/citations?user=4tku-lwAAAAJ&hl=zh-CN), [Nong Sang](https://scholar.google.com/citations?user=ky_ZowEAAAAJ&hl=zh-CN) <br/>
-In CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/).
+In CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qing_Learning_From_Untrimmed_Videos_Self-Supervised_Video_Representation_Learning_With_Hierarchical_CVPR_2022_paper.pdf). [[Website]](https://hico-cvpr2022.github.io/)
+
 <br/>
 <div align="center">
     <img src="framework.jpg" />
@@ -10,7 +11,7 @@ In CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/)
 
 # Latest
 
-[2022-06] Codes will be released!
+[2022-08] Codes are available!
 
 This repo is a modification on the [TAdaConv](https://github.com/alibaba-mmai-research/TAdaConv) repo.
 ## Installation
